@@ -64,4 +64,5 @@ This dataset contains sales transactions from a three different branches of **Wa
 27. Which day of the week has the best average ratings? ✅
 28. Which day of the week has the best average ratings per branch? ✅
 
-
+### Data Visualization
+!["payment_method"](payment_method.png)
