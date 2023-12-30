@@ -66,3 +66,5 @@ This dataset contains sales transactions from a three different branches of **Wa
 
 ### Data Visualization
 !["payment_method"](payment_method.png)
+
+!["product_lines_and_unit_price"](product_lines_and_unit_price.png)
